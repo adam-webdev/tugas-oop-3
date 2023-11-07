@@ -1,0 +1,15 @@
+A:\OOP3\tugas6\obj\Debug\net7.0\tugas6.csproj.AssemblyReference.cache
+A:\OOP3\tugas6\obj\Debug\net7.0\tugas6.GeneratedMSBuildEditorConfig.editorconfig
+A:\OOP3\tugas6\obj\Debug\net7.0\tugas6.AssemblyInfoInputs.cache
+A:\OOP3\tugas6\obj\Debug\net7.0\tugas6.AssemblyInfo.cs
+A:\OOP3\tugas6\obj\Debug\net7.0\tugas6.csproj.CoreCompileInputs.cache
+A:\OOP3\tugas6\bin\Debug\net7.0\tugas6.exe
+A:\OOP3\tugas6\bin\Debug\net7.0\tugas6.deps.json
+A:\OOP3\tugas6\bin\Debug\net7.0\tugas6.runtimeconfig.json
+A:\OOP3\tugas6\bin\Debug\net7.0\tugas6.dll
+A:\OOP3\tugas6\bin\Debug\net7.0\tugas6.pdb
+A:\OOP3\tugas6\obj\Debug\net7.0\tugas6.dll
+A:\OOP3\tugas6\obj\Debug\net7.0\refint\tugas6.dll
+A:\OOP3\tugas6\obj\Debug\net7.0\tugas6.pdb
+A:\OOP3\tugas6\obj\Debug\net7.0\tugas6.genruntimeconfig.cache
+A:\OOP3\tugas6\obj\Debug\net7.0\ref\tugas6.dll
